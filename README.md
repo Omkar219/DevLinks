@@ -36,6 +36,7 @@ https://github.com/kahun/awesome-sysadmin
 
 #### TOOL SET
 ```
+https://mlops.toys/
 https://devhints.io/
 http://www.devopsbookmarks.com/
 https://github.com/public-apis/public-apis
@@ -49,3 +50,8 @@ https://github.com/jlevy/the-art-of-command-line
 https://xkcd.com/927/
 
 ```
+##### Reddit Posts
+```
+https://www.reddit.com/r/devops/comments/nxg6uz/best_courses_interview_questions_youll_ever_need/
+```
+
